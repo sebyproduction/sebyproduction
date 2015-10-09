@@ -33,6 +33,7 @@ practical work using python
 1. ) Write a command in the Idle shell that says “Hello world” 
 print ("hello")
 hello
-print ("my name is sebastian")
+
+2. print ("hello world")
 my name is sebastian
  
