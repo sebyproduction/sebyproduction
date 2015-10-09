@@ -1,0 +1,38 @@
+
+1.	What is a code repository (often also called version control system) used for?
+Version control system also known as source control is the management of changes to documents, computer programs, large web sites.
+Using a system of version control means that:
+•	There is an audit trail’
+•	You can be confident that you have the most up to date version of a document
+•	You can prove which documents were ‘in force’ at a particular 
+
+2.	 Why is it advantageous to use a code repository?
+The main advantage of an institutional repository is that it is easy to work out who can help when you need something done. It’s also advantageous to use a repository for storing all of your codes and to perform backups of this repository regularly. 
+Tracking history, versioning, and labelling are all there to help you manage your code even if you’re just tinkering!   https://books.google.co.uk/books?id=1JW4BgAAQBAJ&pg=PT41&lpg=PT41&dq=It+is+also+advantageous+to+use+a+repository+for+storing+all+of+your+code,+and&source=bl&ots=6oZfzLmlYS&sig=1_6kJbaGkj3hm8YOtQr8sEN4idw&hl=en&sa=X&ved=0CCAQ6AEwAGoVChMIqKPEhOiPyAIVQ0oUCh164Q8S#v=onepage&q=It%20is%20also%20advantageous%20to%20use%20a%20repository%20for%20storing%20all%20of%20your%20code%2C%20and&f=false
+ 
+3.	 Describe the different “layers” of Software that exist on a typical computer and explain why there are different layers of software.
+Antivirus - Is a software utility designed to protect your computer or network against computer viruses?
+Database - Alternatively referred to as a databank or a data store, and sometimes abbreviated as a DB, a database is a large quantity of indexed digital information.
+               http://www.computerhope.com/jargon/d/database.htm
+
+4.	Describe what an algorithm is and explain why it is a useful “tool” to translate from a human level problem (we can think of) to a computer program.
+Algorithm is a procedure or formula for solving a problem. It’s useful for calculating a function calculations or other problem-solving operations, especially by a computer.
+
+
+5.	Write an algorithm that describes how to make scrambled eggs, try to use control words, like IF, WHEN, UNTIL, WHILE, WAIT, AND, OR.
+IF – the software needs updating
+THAT – Drives todays computer 
+TO – An audience 
+WAIT – for the perfect timing
+
+
+
+
+
+practical work using python 
+1. ) Write a command in the Idle shell that says “Hello world” 
+print ("hello")
+hello
+print ("my name is sebastian")
+my name is sebastian
+ 
