@@ -37,3 +37,9 @@ hello
 2. print ("hello world")
 my name is sebastian
  
+3. print ("hi there, what is you name?")
+intro = input()
+print ("hello")
+ask = input
+print ("how are you?")
+ 
