@@ -43,3 +43,13 @@ print ("hello")
 ask = input
 print ("how are you?")
  
+4. numberOne = input("Please enter number one   ")
+print("Thank you, you typed in ", numberOne)
+numberTwo= input("Please enter number two   ")
+print("Thank you, you typed in ", numberTwo)
+numberOne = int(numberOne)
+numberTwo = int(numberTwo)
+result = numberOne * numberTwo
+print("The rsult of your muliplication is =",result)
+username = input("Oh by the way, what is your name? ")
+print("Oh well, thank you",username,"for using this program")
