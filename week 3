@@ -46,4 +46,29 @@ if grade >=60:
 lettergrade = "F"
 print (lettergrade)
 
-5.
+5.Write a program that sets a password as ‘changeme’ and asks the user to enter the password and keeps asking until the correct password is entered and then says ‘Accepted’. 
+The program should count how many attempts the user has taken and tell them after they have been accepted.  
+Extra Challenge: 
+If the user takes more than 5 attempts the program should say, ‘Access denied, please press enter to exit and contact security to reset your password’
+
+change=str(input("please set up your password"))
+
+x=0
+
+password=str(input("type password here"))
+
+if password==changeme:
+    print("password accept")
+
+    else:
+        while password!=changme:
+            if x<4:
+                print("wromng input try one more time")
+                print(x+1,"attempt")
+                x+=1
+                password=str(input("try one more time"))
+
+                else:
+                    print("access denied")
+
+                    break
