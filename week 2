@@ -4,3 +4,11 @@ num*=2
 num1=num+2
 num1+=3
 print(num1)
+
+2.	What do the following lines of code output? Why do they give a different answer?
+print(2 / 3)
+print(2 // 3)
+0.6666666666
+0
+
+3.
