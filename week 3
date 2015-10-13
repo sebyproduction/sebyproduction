@@ -1,0 +1,49 @@
+1.	Which of the following conditions are true, if a is 13 and b is 14?
+a)	a + 1 <= b     TRUE    (13+1<=14)
+b)	a + 1 >= b      TRUE
+c)	a + 1 != b       FALSE
+
+2.	What is the error in this statement? 
+if scoreA = scoreB= :
+        print("Tie")  
+score A = 10
+score B = 10
+if score == score B :
+print ("tie")
+
+3.Supply a condition in this if statement to test whether the user entered a Y:
+userInput = input("Enter Y to quit.")
+if…
+y =("goodbye")
+userprint = input ("enter y to quit.")
+if "userinput" id Y:
+print("goodbye")
+
+4…
+1.	Find the errors in the following if statements.  Make corrections.
+A.if x > 0 :
+       print(x)
+
+B.if (1 + x) > x ** sqrt(2) :
+         y = y + x
+
+C.if x = 1 :
+      (y += 1)
+
+D. if grade >=100:
+lettergrade = "A"
+print (lettergrade)
+if grade >=90:
+lettergrade = "B"
+print (lettergrade)
+if grade >=80:
+lettergrade = "C"
+print (lettergrade)
+if grade >=70:
+lettergrade = "D"
+print (lettergrade)
+if grade >=60:
+lettergrade = "F"
+print (lettergrade)
+
+5.
