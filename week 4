@@ -1,0 +1,51 @@
+1. Assume the following list:   a = [66.25, 333, 333, 1, 1234.5]
+
+If you perform the following operations on the list:
+
+a.insert(2, -1)
+a.append(333)
+
+What will the list look like?
+[66.25, 333, - 1,333,1, 1234.5, 333]
+
+
+Now you perform: 
+a.index(333)
+What will the output of this operation be?
+a.index=(1.333)
+
+a.remove(333) what will the list look like?
+= [66.25, 1,1234.5, 333]
+
+
+a.reverse()
+ What will the list look like?
+(333,5.4321,1,333,25.66)
+
+
+a.sort() What will the list look like?
+(-1,1,66.25,333,333,333,1234.5)
+
+Write a short program to create a list of squares for numbers up to 10. 
+Start with an empty list called squares and append squares of numbers from 0 up to 10.
+Print the contents of your list.
+[0, 1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+
+
+nums = []
+for x in [1,2,3]:
+         for y in [3,1,4]:
+                if x != y:
+                        nums.append((x, y))
+ nums
+
+What is the output from above? 
+
+[(1, 3), (1, 4), (2, 3), (2, 1), (2, 4), (3, 1), (3, 4)]
+
+
+
+ 
+
+
+
