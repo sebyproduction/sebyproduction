@@ -30,7 +30,7 @@ I think its boths beacouse Languages are not the only interpreted or the only co
 
 
 practical work using python 
-1. ) Write a command in the Idle shell that says “Hello world” 
+1. )Write a command in the Idle shell that says “Hello world” 
 print ("hello")
 hello
 
