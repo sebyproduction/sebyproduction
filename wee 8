@@ -1,0 +1,40 @@
+Practical session 8
+Consider this function:
+def mystery(x, y) :
+	result = (x + y) / (y - x)
+	return result
+What is the result of the call mystery (2, 3)?
+print(mystery(2,3))
+>>>
+5.0
+
+Exercises 2
+What does this program print? 
+def main() :
+	a = 5
+	b = 7
+	print(mystery(a, b))
+def mystery(x, y) :
+	z = x + y
+	z = z / 2.0
+	return z
+main()
+>>>
+6.0
+>>>
+
+
+Exercises 3
+What does this program print? 
+def main() :
+a = 4
+print(mystery(a + 1))
+def mystery(x) :
+y = x * x
+return y
+main()
+>>>
+25
+
+
+
